@@ -10,4 +10,4 @@ I am currently a Data Analyst/Development intern at <a href="https://puppseating
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/drive/u/0/folders/190MX0kAMfkRSITgAz-Dnl7DGA-7YQEnA" height="900"></iframe
+<iframe src="https://drive.google.com/drive/u/0/folders/190MX0kAMfkRSITgAz-Dnl7DGA-7YQEnA" height="900"width="100%" height="900"></iframe>
