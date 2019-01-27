@@ -1,12 +1,12 @@
-title: Tauseef Jamadar
-description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+title: Blog_Sonali Singh
+description: Data enthusiast | Never ending adventure | Always curious
+author: Sonali Singh
+email: ssingh79@binghamton.edu
+phone: 607-352-0778
+github: https://github.com/singh-sona
+about: I am a Data Analyst inetrn at <a href="https://puppseating.com/" target="_blank">PUPPSeating.com</a>. Always excited to dive deep into ocean of data
 disqus_shortname: programming
-google_analytics: UA-31048387-6
+#google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -18,19 +18,17 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
     - icon: fa-twitter
       link: "https://twitter.com/tmjam3011"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/sonali-singh94/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/singh-sona/"
 
 share:
-  twitter_username: tmjam3011
+  #twitter_username: tmjam3011
   # fb_appid: 1749788565247320
 
 urls:
@@ -40,10 +38,10 @@ urls:
       url: /projects/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+    #- text: XML Feed
+     # url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://tmjam.github.io/singh-sona"
 baseurl: ""
 paginate: 20
 per_page: 20
