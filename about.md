@@ -10,5 +10,5 @@ I am currently a Data Analyst/Development intern at <a href="https://puppseating
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="chrome-extension://feepmdlmhplaojabeoecaobfmibooaid/https://drive.google.com/uc?id=0B6mMTmlG7q9oNXhUUF94WUJRcGc&export=download&filename=Sonali%20Resume.pdf" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1xjCCs7yf8-KOZc3EzJErPxryGliwZPTj/expo?format=pdf" width="100%" height="900"></iframe>
  
