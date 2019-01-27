@@ -6,7 +6,7 @@ phone: 607-352-0778
 github: https://github.com/singh-sona
 about: I am a Data Analyst inetrn at <a href="https://puppseating.com/" target="_blank">PUPPSeating.com</a>. Always excited to dive deep into ocean of data
 disqus_shortname: programming
-#google_analytics: UA-31048387-6
+google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -41,7 +41,7 @@ urls:
     #- text: XML Feed
      # url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/singh-sona"
+url: "https://singh-sona.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
