@@ -2,50 +2,50 @@
 	{
 		"slug": "etrucking-soft",
 		"name": "Etrucking Software",
-		"image": "etruckingsoft.png",
+		"image": "a.png",
 		"url": "http://etruckingsoft.com",
 		"date": "Jan 2014",
 		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
 	},
 	{
 		"name": "Easy Links",
-		"image": "easy-links.jpg",
+		"image": "b.jpg",
 		"date": "May 2017",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
 		"tags": ["Extension","Javascript"]
 	},
 	{
 		"name": "Live Band Club",
-		"image": "livebandclub.png",
+		"image": "c.png",
 		"url": "http://livebandclub.com",
 		"date": "June 2016",
 		"tags": ["HTML","Javascript","PHP"]
 	},
 	{
 		"name": "Pavement Preservation Treatment Database",
-		"image": "pp_logo.png",
+		"image": "d.png",
 		"date": "Oct 2015",
 		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"tags": ["PHP","HTML"]
 	},
 	{
 		"name": "Street Saver Certification Program",
-		"image": "streetsaver.png",
+		"image": "e.png",
 		"date": "Oct 2015",
 		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
 		"tags": ["PHP","HTML","CMS"]
 	},
 	{
 		"name": "Tire Derived Aggregate",
-		"image": "tda.png",
+		"image": "f.png",
 		"date": "Oct 2016",
 		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
 		"tags": ["PHP","HTML","CMS"]
 	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"name": "From Scratch to Sportscar",
+		"image": "g.png",
+		"url": "https://www.youtube.com/watch?v=QxQlENUl4xI",
+		"date": "May 2015",'
+		"tags": ["Quality Assurance","ANSYS","CATIA","SOLIDWORK","MS-Excel","Artificial Intelligence", "Human Ergonomics","Supply Chain","Marketing"]
 	}
 ]
