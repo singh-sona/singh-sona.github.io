@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About <img src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif" width="100" height="100" />
 permalink: /about/
 ---
 <p>
