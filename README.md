@@ -4,9 +4,9 @@ See it here - https://singh-sona.github.io
 This project forked and has been modified from * [https://agusmakmun.github.io](https://agusmakmun.github.io) whose parent theme is a simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
 > and the search posts using [Super Search](https://github.com/chinchang/super-search) - Theme Demo
 
-Base Theme Features | Customizations | Tutorials | License
+### Base Theme Features | Screenshot | Install & Configuration Customizations | Tutorials | Demo | License
 
-#### Features
+### Features
 
 * Sitemap
 * Pagination in homepage
@@ -32,11 +32,6 @@ Here's a couple of blog posts I've written on how I got the site setup - from ac
 
 Build a Blog with Github - Part 1
 Build a Blog with Github - Part 2
-
-## My Stack Problems
-
-> This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
-> and the search posts using [Super Search](https://github.com/chinchang/super-search)
 
 ### Install & Configuration
 
