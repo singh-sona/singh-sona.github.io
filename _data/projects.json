@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Easy Links",
-		"image": "b.jpg",
+		"image": "g.png",
 		"date": "May 2017",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
 		"tags": ["Extension","Javascript"]
