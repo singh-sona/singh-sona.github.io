@@ -5,7 +5,7 @@ email: ssingh79@binghamton.edu
 phone: 607-352-0778
 github: https://github.com/singh-sona
 about: I am a Data Analyst inetrn at <a href="https://puppseating.com/" target="_blank">PUPPSeating.com</a>. Always excited to dive deep into ocean of data
-disqus_shortname: programming
+disqus_shortname: singh-sona.github.io
 google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
@@ -19,7 +19,7 @@ collections:
 
 social:
     - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://twitter.com/_singh_sona"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/sonali-singh94/"
     # - icon: fa-stack-exchange
@@ -28,7 +28,7 @@ social:
       link: "https://github.com/singh-sona/"
 
 share:
-  #twitter_username: tmjam3011
+  twitter_username: _singh_sona
   # fb_appid: 1749788565247320
 
 urls:
