@@ -21,7 +21,9 @@ Base Theme Features | Customizations | Tutorials | License
 * Google analytics
 * HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
 
-Screenshot
+### Screenshot
+
+![Screenshot Post Page](site.PNG)
 
 
 Social links
@@ -31,8 +33,6 @@ Here's a couple of blog posts I've written on how I got the site setup - from ac
 Build a Blog with Github - Part 1
 Build a Blog with Github - Part 2
 
-License
-MIT License © Sérgio Kopplin
 ## My Stack Problems
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
@@ -61,24 +61,11 @@ All categories saved inside path of `category/`, you can see the existed categor
 ### Demo
 * [https://singh-sona.github.io](https://singh-sona.github.io)
 
-#### Features
 
-* Sitemap and XML Feed
-* Pagination in homepage
-* Posts under category
-* Realtime Search Posts _(title & description)_ by query.
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
-* Projects page & Detail Project page
-* Share on social media
-* Google analytics
-* HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
+License
+MIT License © Sérgio Kopplin
 
-#### Screenshot
 
-![Screenshot Post Page](site.PNG)
 
 
 ```
