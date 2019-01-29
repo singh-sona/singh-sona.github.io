@@ -2,7 +2,7 @@
 	{
 		"slug": "etrucking-soft",
 		"name": "Nursing Home KPIs ETL+EDA",
-		"image": "a.jpg",
+		"image": "a.png",
 		"url": "https://github.com/singh-sona/Nursing-Home-KPI-comparision",
 		"date": "Jan 2014",
 		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA"]
