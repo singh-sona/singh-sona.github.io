@@ -1,11 +1,11 @@
 [
 	{
 		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		"name": "Nursing Home KPIs EDT+EDA",
 		"image": "a.png",
-		"url": "http://etruckingsoft.com",
+		"url": "https://github.com/singh-sona/Nursing-Home-KPI-comparision",
 		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA"]
 	},
 	{
 		"name": "Easy Links",
