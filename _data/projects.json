@@ -2,7 +2,7 @@
 	{
 		"slug": "etrucking-soft",
 		"name": "Nursing Home KPIs EDT+EDA",
-		"image": "a.png",
+		"image": "a.jpg",
 		"url": "https://github.com/singh-sona/Nursing-Home-KPI-comparision",
 		"date": "Jan 2014",
 		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA"]
@@ -16,28 +16,28 @@
 	},
 	{
 		"name": "Live Band Club",
-		"image": "c.png",
+		"image": "c.jpg",
 		"url": "http://livebandclub.com",
 		"date": "June 2016",
 		"tags": ["HTML","Javascript","PHP"]
 	},
 	{
 		"name": "Pavement Preservation Treatment Database",
-		"image": "d.png",
+		"image": "d.jpg",
 		"date": "Oct 2015",
 		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"tags": ["PHP","HTML"]
 	},
 	{
 		"name": "Street Saver Certification Program",
-		"image": "e.png",
+		"image": "e.jpg",
 		"date": "Oct 2015",
 		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
 		"tags": ["PHP","HTML","CMS"]
 	},
 	{
 		"name": "Tire Derived Aggregate",
-		"image": "f.png",
+		"image": "f.jpg",
 		"date": "Oct 2016",
 		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
 		"tags": ["PHP","HTML","CMS"]
