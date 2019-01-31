@@ -8,7 +8,7 @@ First of all, Thank you for stopping by.
 # Who am I?
 Hi, I am `Sonali Singh`, a *Data Analyst Intern* and a *Creativity Enthusiast* from Binghamton, NY who loves to build model on datasets to build great products and help business succeed with their goals. 
 
-I was born in Nainital, India and travelled to the United States for my masters program in System Science and Industrial Engineering from [Binghamton University][https://www.binghamton.edu/] and recently been awarded with academic excellence recongnition...yaay!
+I was born in Nainital, India and travelled to the United States for my masters program in System Science and Industrial Engineering from [Binghamton University!](https://www.binghamton.edu/) and recently been awarded with academic excellence recongnition...yaay!
 
 I have over 3 years rich  professional experience in multiple industries of manufacturing, software and health. I am aspiring to learn, grow and share the knowledge. I started real world problem solving and delivering solutions from the year 2014, since then I have come far and learnt a lot. I am constantly looking to work on exciting projects.
 
