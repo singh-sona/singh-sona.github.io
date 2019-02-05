@@ -1,4 +1,4 @@
-### Sonali Singh Personal Website
+# Sonali Singh Personal Website
 See it here - https://singh-sona.github.io
 
 This project forked and has been modified from * [https://agusmakmun.github.io](https://agusmakmun.github.io) whose parent theme is a simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
