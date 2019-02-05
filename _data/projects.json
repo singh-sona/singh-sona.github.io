@@ -15,17 +15,17 @@
 		"tags": ["Extension","Javascript"]
 	},
 	{
-		"name": "Responsive Visualizations on Tableau",
+		"name": "Responsive and Drillable Visualizations on Tableau",
 		"image": "c.PNG",
 		"url": "https://public.tableau.com/profile/sonali.singh#!/",
 		"date": "Jan 2019",
 		"tags": ["HTML","Javascript","PHP"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "Data Audits and exploratory walkthrough of Airbnb data",
 		"image": "d.jpg",
 		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"url": "https://github.com/singh-sona/Messy-Data-Cleanning-Projects",
 		"tags": ["PHP","HTML"]
 	},
 	{
