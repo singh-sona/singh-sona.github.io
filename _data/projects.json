@@ -8,9 +8,9 @@
 		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA","data mining"]
 	},
 	{
-		"name": "Home_Health Responsive+Driabble Dashboard",
+		"name": "Home_Health Responsive + Drillable Dashboard",
 		"image": "b.PNG",
-		"date": "May 2017",
+		"date": "Jan 2019",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
 		"tags": ["Extension","Javascript"]
 	},
