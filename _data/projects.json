@@ -8,7 +8,7 @@
 		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA","data mining","Healthcare"]
 	},
 	{
-		"name": "Home_Health Responsive + Drillable Dashboard",
+		"name": "Home_Health Agencies Responsive + Drillable Dashboard",
 		"image": "b.PNG",
 		"url": "https://public.tableau.com/profile/sonali.singh#!/vizhome/HomeHealthAgenciesDashboard/home_healthagencies",
 		"date": "Jan 2019",
@@ -23,7 +23,7 @@
 		"tags": ["Tableau","Dashboards","Responsive Visualization", "Powerful Visualization","Data Mining"]
 	},
 	{
-		"name": "Data Audits and exploratory walkthrough of Airbnb data",
+		"name": "Data Audits and Exploratory Walkthrough of Airbnb data",
 		"image": "d.jpg",
 		"date": "Oct 2015",
 		"url": "https://github.com/singh-sona/Messy-Data-Cleanning-Projects",
