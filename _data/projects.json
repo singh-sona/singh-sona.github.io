@@ -10,9 +10,10 @@
 	{
 		"name": "Home_Health Responsive + Drillable Dashboard",
 		"image": "b.PNG",
+		"url":"https://public.tableau.com/profile/sonali.singh#!/vizhome/HomeHealthAgenciesDashboard/home_healthagencies",
 		"date": "Jan 2019",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"tags": ["Dashborad","ETL", "Responsive Visualization", "Tableau"]
 	},
 	{
 		"name": "Responsive and Drillable Visualizations on Tableau",
