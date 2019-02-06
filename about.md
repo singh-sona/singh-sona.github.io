@@ -20,5 +20,6 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/116iLRTnZRRKjCqEMTGDYS_3ES_ViDsxj/view?usp=sharing" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/116iLRTnZRRKjCqEMTGDYS_3ES_ViDsxj/preview" width="100%" height="900"></iframe>
+
  
