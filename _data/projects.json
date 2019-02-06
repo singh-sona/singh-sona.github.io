@@ -5,15 +5,15 @@
 		"image": "a.PNG",
 		"url": "https://github.com/singh-sona/Nursing-Home-KPI-comparision",
 		"date": "Jan 2014",
-		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA","data mining"]
+		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA","data mining","Healthcare"]
 	},
 	{
 		"name": "Home_Health Responsive + Drillable Dashboard",
 		"image": "b.PNG",
 		"url": "https://public.tableau.com/profile/sonali.singh#!/vizhome/HomeHealthAgenciesDashboard/home_healthagencies",
 		"date": "Jan 2019",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Dashborad","ETL", "Responsive Visualization", "Tableau"]
+		"description": "This is responsive and drillable dashboard on Tableau to visualize how well states perform on different KPIs with in different star-rating categories",
+		"tags": ["Dashborad","ETL", "Responsive Visualization", "Tableau", "Healthacare"]
 	},
 	{
 		"name": "Responsive and Drillable Visualizations on Tableau",
