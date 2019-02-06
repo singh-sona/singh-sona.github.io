@@ -30,19 +30,13 @@
 		"tags": ["ETL","EDA","python","data mining","matplotlib"]
 	},
 	{
-		"name": "Street Saver Certification Program",
-		"image": "e.jpg",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},
-	{
-		"name": "Analsis of Air Quality Index in Delhi",
+		"name": "Analysis of Air Quality Index in Delhi",
 		"image": "f.png",
 		"date": "Oct 2016",
 		"url": "https://github.com/singh-sona/AQI_variation_animation-on-Excel",
 		"tags": ["MS Excel","ETL","EDA", "Powerful Visualization"]
-	},{
+	},
+	{
 		"name": "From Scratch to Sportscar",
 		"image": "g.png",
 		"url": "https://www.youtube.com/watch?v=QxQlENUl4xI",
