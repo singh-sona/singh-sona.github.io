@@ -5,7 +5,7 @@
 		"image": "a.PNG",
 		"url": "https://github.com/singh-sona/Nursing-Home-KPI-comparision",
 		"date": "Jan 2014",
-		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA"]
+		"tags": ["Python", "Plotly", "Matplotlib", "ETL","EDA","data mining"]
 	},
 	{
 		"name": "Easy Links",
@@ -26,7 +26,7 @@
 		"image": "d.jpg",
 		"date": "Oct 2015",
 		"url": "https://github.com/singh-sona/Messy-Data-Cleanning-Projects",
-		"tags": ["ETL","EDA","python"]
+		"tags": ["ETL","EDA","python","data mining","matplotlib"]
 	},
 	{
 		"name": "Street Saver Certification Program",
