@@ -19,7 +19,7 @@
 		"image": "c.PNG",
 		"url": "https://public.tableau.com/profile/sonali.singh#!/",
 		"date": "Jan 2019",
-		"tags": ["HTML","Javascript","PHP"]
+		"tags": ["Tableau","Dashboards","Responsive Visualization", "Powerful Visualization","Data Mining"]
 	},
 	{
 		"name": "Data Audits and exploratory walkthrough of Airbnb data",
@@ -40,7 +40,7 @@
 		"image": "f.jpg",
 		"date": "Oct 2016",
 		"url": "https://github.com/singh-sona/AQI_variation_animation-on-Excel",
-		"tags": ["PHP","HTML","CMS"]
+		"tags": ["MS Excel","ETL","EDA", "Powerful Visualization"]
 	},{
 		"name": "From Scratch to Sportscar",
 		"image": "g.png",
