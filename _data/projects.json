@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "Analsis of Air Quality Index in Delhi",
-		"image": "f.jpg",
+		"image": "f.png",
 		"date": "Oct 2016",
 		"url": "https://github.com/singh-sona/AQI_variation_animation-on-Excel",
 		"tags": ["MS Excel","ETL","EDA", "Powerful Visualization"]
