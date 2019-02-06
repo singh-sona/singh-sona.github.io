@@ -36,10 +36,10 @@
 		"tags": ["PHP","HTML","CMS"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
+		"name": "Analsis of Air Quality Index in Delhi",
 		"image": "f.jpg",
 		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
+		"url": "https://github.com/singh-sona/AQI_variation_animation-on-Excel",
 		"tags": ["PHP","HTML","CMS"]
 	},{
 		"name": "From Scratch to Sportscar",
